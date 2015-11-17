@@ -129,7 +129,7 @@ footer{
 }
 
 .bg-perfil{
-	background-image: url(../img/perfil.jpg);
+	background-image: url(../img/perfil.JPG);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: 50%;
@@ -178,7 +178,7 @@ footer{
 
 .bg-laboratoria{ background-image: url(../img/portafolio/laboratoria/laboratoria.jpg); }
 .bg-freelancer{ background-image: url(../img/portafolio/freelancer/freelancer.jpg); }
-.bg-primes{ background-image: url(../img/portafolio/primes/primes.jpg); }
+.bg-primes{ background-image: url(../img/portafolio/Primes/primes.jpg); }
 
 .bg-contacto{
 	background-image: url(../img/bg/contacto.jpg);
